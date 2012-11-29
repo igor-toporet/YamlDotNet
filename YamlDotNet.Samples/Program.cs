@@ -28,6 +28,8 @@ namespace YamlDotNet.Samples
                 Console.WriteLine("--------------------------------");
                 Console.WriteLine();
             }
+
+            Console.ReadLine();
         }
     }
 }
